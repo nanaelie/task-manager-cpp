@@ -22,6 +22,9 @@ task-manager-cpp/
 │── data/
 │   ├── tasks.txt
 │── Makefile
+│── LICENCE
+│── README.md
+│── Makefile
 ```
 
 ## 🛠️ Installation
